@@ -50,7 +50,7 @@ Predict if a retailer will have **above-average (high)** ticket returns in a giv
 from ticket_return_model import process_and_train
 
 process_and_train(f2023)
-
+```
 
 📌 Future Ideas
 
