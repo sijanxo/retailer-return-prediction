@@ -62,5 +62,5 @@ process_and_train(f2023)
 
     More granular predictions by product type or location
 
-Author: Sijan Khadka
-Internship: Tennessee Education Lottery, Summer 2025
+- Author: Sijan Khadka
+- Internship: Tennessee Education Lottery, Summer 2025
