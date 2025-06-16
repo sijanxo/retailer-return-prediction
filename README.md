@@ -38,9 +38,8 @@ Predict if a retailer will have **above-average (high)** ticket returns in a giv
 ## 📁 Files
 
 - `ticket_return_model.py` – main Python script
-- `data/` – place your fiscal year CSVs here (not included)
-- `notebooks/` – optional Jupyter notebook version (if using one)
-- `plots/` – optional visual outputs
+- `sample_data.csv` – dummy dataset for testing (no real company data)
+- `generate_dummy_data.py` – optional script to generate synthetic data
 
 ## ▶️ How to Run
 
