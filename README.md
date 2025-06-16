@@ -50,3 +50,17 @@ Predict if a retailer will have **above-average (high)** ticket returns in a giv
 from ticket_return_model import process_and_train
 
 process_and_train(f2023)
+
+
+📌 Future Ideas
+
+    Feature importance analysis
+
+    Time-based models (seasonality trends)
+
+    Web dashboard for real-time predictions
+
+    More granular predictions by product type or location
+
+Author: Sijan Khadka
+Internship: Tennessee Education Lottery, Summer 2025
