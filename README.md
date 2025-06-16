@@ -52,7 +52,7 @@ from ticket_return_model import process_and_train
 process_and_train(f2023)
 ```
 
-📌 Future Ideas
+## 📌 Future Ideas
 
     Feature importance analysis
 
