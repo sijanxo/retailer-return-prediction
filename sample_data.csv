@@ -1,0 +1,6 @@
+RetailerID,RetailerName,ReturnDate,ProductID,ProductName,PackNumber,PackSize,StartTicket,EndTicket,CurrentLocation,Textbox12,Textbox33,PricePoint,TotalPrice
+R00042,Retailer_R00042,08/15/2023,P0012,Product_P0012,4321,50,5,10,Returned,, ,5,25
+R00003,Retailer_R00003,12/01/2024,P0007,Product_P0007,5231,100,20,30,Warehouse,, ,10,100
+R00019,Retailer_R00019,02/03/2023,P0005,Product_P0005,1112,20,2,5,Transit,, ,2,6
+R00056,Retailer_R00056,04/10/2025,P0015,Product_P0015,7890,50,12,17,Returned,, ,5,25
+R00084,Retailer_R00084,09/22/2022,P0018,Product_P0018,6543,100,10,20,Warehouse,, ,20,200
